@@ -11,3 +11,10 @@ name = "tanmayRG2"
 location = "eastus"
   
 }
+
+resource "azurerm" "RG3" {
+
+name = "tanmayRG3"
+location = "eastus"
+  
+}

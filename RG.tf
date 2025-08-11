@@ -1,13 +1,13 @@
-resource "azurerm" "RG" {
+resource "azurerm" "RG1" {
 
-name = "tanmayRG"
+name = "tanmayRG1"
 location = "eastus"
   
 }
 
-resource "azurerm" "RG1" {
+resource "azurerm" "RG2" {
 
-name = "tanmayRG1"
+name = "tanmayRG2"
 location = "eastus"
   
 }
